@@ -2,7 +2,7 @@
 
 [![Documentation Status](https://readthedocs.org/projects/depp-sfa/badge/?version=latest)](https://depp-sfa.readthedocs.io/en/latest/?badge=latest)
 
-**Depp_sfa** is a Python library dedicated to the estimation of Stochastic Frontier Analysis (SFA) models. It is specifically designed to provide high robustness against numerical convergence issues—such as "boundary effects"—frequently encountered in applied econometrics.
+**Depp_sfa** is a Python library dedicated to the estimation of Stochastic Frontier Analysis (SFA) models. It is specifically designed to provide high robustness against numerical convergence issues such as "boundary effects", frequently encountered in applied econometrics.
 
 ---
 
